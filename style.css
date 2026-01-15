@@ -9,7 +9,7 @@ body {
 
 /* Cabecera */
 header {
-  background-color: #2c3e50;
+  background-color: #0a2540;
   color: #ffffff;
   padding: 20px;
   text-align: center;
@@ -47,12 +47,12 @@ main {
 
 /* Artículos */
 article h2 {
-  color: #2c3e50;
+  color: #1278df;
 }
 
 /* Pie de página */
 footer {
-  background-color: #2c3e50;
+  background-color: #0a2540;
   color: #ffffff;
   text-align: center;
   padding: 10px;
