@@ -45,6 +45,6 @@ A continuación se muestran algunas capturas del proceso (opcional):
 - Otros Commits y un push
 	![Otros Commits y un Push](imagenes/commit_fase3.png)
 - Publicación con GitHub Pages
-	![Github Pages](imagenes/pagina.png)
+	![Github Pages](imagenes/pagina.PNG)
 - Revisar el historial de commits
-	![Historial](imagenes/historial.png)
+	![Historial](imagenes/historial.PNG)
