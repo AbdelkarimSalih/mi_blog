@@ -36,5 +36,15 @@ El sitio web está publicado en GitHub Pages y es accesible desde la siguiente U
 ## Capturas de pantalla
 A continuación se muestran algunas capturas del proceso (opcional):
 
-- Historial de commits en GitHub
-- Página web publicada en GitHub Pages
+- Primer Commit 
+	![Primer Commit](imagenes/primer_commit.png)
+- Segundo Commit 
+	![Segundo commit](imagenes/segundo_commit.png)
+- Primer Push
+	![Primer Push](imagenes/primer_push.png)
+- Otros Commits y un push
+	![Otros Commits y un Push](imagenes/commit_fase3.png)
+- Publicación con GitHub Pages
+	![Github Pages](imagenes/fase4_1.png)
+- Revisar el historial de commits
+	![Historial](imagenes/fase5_1.png)
